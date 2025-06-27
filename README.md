@@ -9,10 +9,10 @@ JS,HTML and CSS
 
 
 ##Getting started
+
 1.**Clone the repository**
 ```bash
-git clone 
-https://github.com/Mary-design99/Inventory-project
+git clone https://github.com/Mary-design99/Inventory-project
 2.**Navigate into the project directory
 ``bash
 cd https://github.com/Mary-design99/Inventory-project
